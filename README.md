@@ -9,7 +9,7 @@ You have many options but my preference is to shy away from bloated apps that ha
 <b>PROBLEM</b>: When bloated apps need updated, the associated download is big too.<br>
 <b>SOLUTION</b>: Install wine on you system using HOMEBREW. Its quick, easy and will save you time down the road.
 
-Not every one is a super-geek. So here is what you need to get WINE and tap into its magic with WINE TAP in 3 easy steps:
+Not everyone is a super-geek. So here is what you need to get WINE and tap into its magic in 3 easy steps:
 
 <b>1) OPEN THE Terminal.app</b>
 You can find it by opening your Applications folder, then open the Utilities folder. 
